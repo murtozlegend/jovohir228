@@ -1,0 +1,17 @@
+form{
+    width: 350px;
+   padding: 150px;
+    background-color: aqua;
+}
+
+input{
+padding: 12px 24px;
+width: 60px;
+background-color: black;
+color: white;
+font-size: 24px;
+}
+#cal{
+    width: 205px;
+    text-align: right;
+}
